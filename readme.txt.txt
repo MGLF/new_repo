@@ -12,3 +12,5 @@ git 免密码push
 
 git config --global user.name "成长中的小牛"
 git config --global user.email "1208984024@qq.com"
+在vs中每次更新代码都会要输入账号密码，方便起见，可以配置一下让GIT记住密码账号。
+git config --global credential.helper store   //在Git Bash输入这个命令就可以了
