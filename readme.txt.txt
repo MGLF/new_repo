@@ -19,3 +19,6 @@ git config --global credential.helper store   //在Git Bash输入这个命令就
 git pull更新本地的（从远程仓库获取）
 
 git通过vscode操作需要保持本地仓库和远程仓库名字一致
+
+
+ubuntu 下测试
